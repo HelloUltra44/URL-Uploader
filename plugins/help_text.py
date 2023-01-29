@@ -71,5 +71,4 @@ async def start(bot, update):
                   InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/playlist?list=PLzkiTywVmsSfmhaDdWNZ5PRmmMKGTIxPJ')
             ]]
         ),
-        reply_to_message_id=message.message_id
     )
